@@ -33,7 +33,7 @@ I'm Jake a security focussed, front end developer based in the UK. See my [full 
 -->
 
 ## Play Moon Dash!
-[![MoonDash](https://doc.gold.ac.uk/~jbrun001/programming/week7/thumb.png "MoonDash")](https://doc.gold.ac.uk/~jbrun001/programming/week7/index.html)
+[![MoonDash](media/moondash.png "MoonDash")](https://doc.gold.ac.uk/~jbrun001/programming/week7/index.html)
 
 
 
