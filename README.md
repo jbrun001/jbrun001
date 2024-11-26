@@ -1,6 +1,6 @@
 
 
-I'm Jake, a security focused front end developer based in the UK. See my full portfolio and contact me on [LinkedIn][1].
+I'm Jake, a security focused front end developer based in the UK. See my [full portfolio][2] and contact me on [LinkedIn][1].
 
 ## Technologies
 ![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=javascript&logoColor=white&color=0d2afd)
@@ -40,5 +40,5 @@ I'm Jake, a security focused front end developer based in the UK. See my full po
 
 <!-- social media accounts -->
 [1]: https://www.linkedin.com/in/jbrun001/
-[2]: https://doc.gold.ac.uk/~jbrun001/portfolio/
+[2]: https://jbrun001.github.io/allprojects.html
 
